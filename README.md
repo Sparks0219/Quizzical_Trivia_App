@@ -26,9 +26,17 @@ Some additional features I added to the trivia app are:
 
 The main reason for doing this project is as an illustration of what I've learned
 by completing Scrimba's React Tutorial Course. Before this course, I had no experience
-with JavaScript, CSS, HTML, or React, and despite still feeling like a complete beginner 
-I definitely felt like I learned a lot and this project is a culmination of my first couple
-steps into Frontend Development. 
+with JavaScript, CSS, HTML, or React. I definitely felt like I learned a lot and 
+this project is a culmination of my first couple steps into Frontend Development. 
 
-Some of the core concepts I used in this project were:
+Some of the core React concepts I used in this project were:
+
+- the useState() hook to store and update variables regarding form data and question choices 
+- the useEffect() hook and async functions to receive data from the trivia database 
+- Conditional Rendering to be able to switch pages and button coloring on user input
+- Forms to receive user input regarding quiz settings 
+
+## Try it out yourself
+
+
 
