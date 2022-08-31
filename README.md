@@ -1,28 +1,34 @@
-# cbB9qpCg
+# Quizzical Trivia App
 
-Quick start:
+This is my final solo project from Scrimba's React Tutorial Course. 
+I pulled trivia questions from the [Open Trivia Database API] (https://opentdb.com) and 
+used a combination of JavaScript, CSS, HTML, and React to construct 
+a interface allowing players to interact with the pulled questions. 
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Basic Features 
 
-## Development
+The core functionality of the trivia app lies in two features:
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+- Pulling questions from the trivia database api 
+- Users can select, submit, and receive feedback on their choices
 
-```
-$ yarn watch # npm run watch
-```
+## Additional Features
 
-## About Scrimba
+Some additional features I added to the trivia app are:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- Creating an initial form that allows users to select game options
+- Users can select the number of questions
+- Users can to select what type of questions (T/F or multiple choice)
+- Users can to select the difficulty of questions 
+- After completing one round, users can choose to either play on the current settings or change the existing settings
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Purpose and What I Learned
 
-Happy Coding!
+The main reason for doing this project is as an illustration of what I've learned
+by completing Scrimba's React Tutorial Course. Before this course, I had no experience
+with JavaScript, CSS, HTML, or React, and despite still feeling like a complete beginner 
+I definitely felt like I learned a lot and this project is a culmination of my first couple
+steps into Frontend Development. 
+
+Some of the core concepts I used in this project were:
+
