@@ -1,7 +1,7 @@
 # Quizzical Trivia App
 
 This is my final solo project from Scrimba's React Tutorial Course. 
-I pulled trivia questions from the [Open Trivia Database API] (https://opentdb.com) and 
+I pulled trivia questions from the [Open Trivia Database API](https://opentdb.com) and 
 used a combination of JavaScript, CSS, HTML, and React to construct 
 a interface allowing players to interact with the pulled questions. 
 
