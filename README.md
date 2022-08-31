@@ -36,7 +36,8 @@ Some of the core React concepts I used in this project were:
 - Conditional Rendering to be able to switch pages and button coloring on user input
 - Forms to receive user input regarding quiz settings 
 
-## Try it out yourself
+## Try it here!
+https://sparks0219.github.io/Quizzical_Trivia_App/
 
 
 
