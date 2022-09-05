@@ -35,9 +35,9 @@ Some of the core React concepts I used in this project were:
 - the useEffect() hook and async functions to receive data from the trivia database 
 - Conditional Rendering to be able to switch pages and button coloring on user input
 - Forms to receive user input regarding quiz settings 
-
+<!-- 
 ## Try it here!
-https://sparks0219.github.io/Quizzical_Trivia_App/
+https://sparks0219.github.io/Quizzical_Trivia_App/ -->
 
 
 
